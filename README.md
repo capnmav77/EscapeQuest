@@ -94,18 +94,6 @@ If you're new to open source, here are some resources to help you get started:
 - [How to Create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting Started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-## Project Admin 👨‍💼
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://github.com/adithya-s-k"><img src="https://avatars.githubusercontent.com/u/27956426?s=400&u=582ecb2d706a63fc67eb1b54579c7ab19cf391fd&v=4" width="100px;" alt=""/><br /><sub><b>Adithya S Kolavi</b></sub></a><br /><a href="https://github.com/dscpesu/my-first-opensource-contribution/commits?author=adithya-s-k" title="Code">💻</a></td>
-            <td align="center"><a href="https://github.com/Ashenoy64"><img src="https://avatars.githubusercontent.com/u/59566362?v=4" width="100px;" alt=""/><br /><sub><b>Avanish Shenoy</b></sub></a><br /><a  title="Code">🎮</a></td>
-    </tr>
-  </table>
-</div>
-
-
  ## ✨ Top Contributors
 
 Thanks to all our wonderful contributors! Contributions of any kind are welcome! 🚀
@@ -144,6 +132,13 @@ If you have any questions or need support, feel free to reach out to us at **dsc
   <h1>Happy Contributing! 🚀</h1>
 </div>
 <br>
+
+<div>
+  ##image here about the project 
+  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
+  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
+  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
+</div>
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
