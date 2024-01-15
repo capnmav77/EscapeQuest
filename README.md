@@ -135,9 +135,6 @@ If you have any questions or need support, feel free to reach out to us at **dsc
 
 <div>
   ##image here about the project 
-  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
-  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
-  ![Hello there](https://wallpapers.com/images/hd/anime-aesthetic-pictures-lqtumoq8zq18qvfs.jpg)
 </div>
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
